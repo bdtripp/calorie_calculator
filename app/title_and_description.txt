@@ -1,0 +1,13 @@
+Title: 			Calorie Calculator
+
+Short Description: 	Calculates a calorie burn rate based on weight and MET values.
+
+Full Description: 	This calculator will calculate the number of calories that you burn per hour based on 
+			the excercise that you are doing. In order to perform the calculation, you will need to 
+			determine the MET value that is associated with the excercise. MET values are a universal way of 
+			ranking the intensity of an excerice, and a list of these values can be found through a variety of
+			sources. A link to a table of MET values and their associated excercises is provided within the app.
+		
+			In addition to the MET value, you will need to enter your weight in pounds. With these two values
+			the calculator can determine the number of calories that you will burn per hour. 
+			
